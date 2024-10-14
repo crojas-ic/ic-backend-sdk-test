@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IC-SDK-BE-Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0feb9dfd404c8cda705528ac8d632d2783eaf50b")]
 [assembly: System.Reflection.AssemblyProductAttribute("IC-SDK-BE-Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IC-SDK-BE-Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -23,3 +23,4 @@
 /Users/crojas/Desktop/Angular Dev/IC-SDK-BE-Test/obj/Debug/net8.0/IC-SDK-BE-Test.pdb
 /Users/crojas/Desktop/Angular Dev/IC-SDK-BE-Test/obj/Debug/net8.0/IC-SDK-BE-Test.genruntimeconfig.cache
 /Users/crojas/Desktop/Angular Dev/IC-SDK-BE-Test/obj/Debug/net8.0/ref/IC-SDK-BE-Test.dll
+/Users/crojas/Desktop/Angular Dev/IC-SDK-BE-Test/obj/Debug/net8.0/IC-SDK-BE-Test.sourcelink.json
