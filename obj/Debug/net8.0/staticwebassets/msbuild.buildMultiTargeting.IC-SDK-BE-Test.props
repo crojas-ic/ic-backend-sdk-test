@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/IC-SDK-BE-Test.props" />
+</Project>

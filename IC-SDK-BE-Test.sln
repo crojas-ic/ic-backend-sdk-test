@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IC-SDK-BE-Test", "IC-SDK-BE-Test.csproj", "{7485A3A6-2D2C-4606-A919-3AD09E76DBDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7485A3A6-2D2C-4606-A919-3AD09E76DBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7485A3A6-2D2C-4606-A919-3AD09E76DBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7485A3A6-2D2C-4606-A919-3AD09E76DBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7485A3A6-2D2C-4606-A919-3AD09E76DBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28B164B4-E593-4EDD-9219-89E1561336B4}
+	EndGlobalSection
+EndGlobal
